@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\InterfacePractice\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F65FF74B-4480-4E98-BEFB-255CBB981926}|Practice\\Practice.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\interfacepractice\\practice\\practice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65FF74B-4480-4E98-BEFB-255CBB981926}|Practice\\Practice.csproj|solutionrelative:practice\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65FF74B-4480-4E98-BEFB-255CBB981926}|Practice\\Practice.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\interfacepractice\\practice\\practice\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65FF74B-4480-4E98-BEFB-255CBB981926}|Practice\\Practice.csproj|solutionrelative:practice\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65FF74B-4480-4E98-BEFB-255CBB981926}|Practice\\Practice.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\interfacepractice\\practice\\practice\\services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65FF74B-4480-4E98-BEFB-255CBB981926}|Practice\\Practice.csproj|solutionrelative:practice\\services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65FF74B-4480-4E98-BEFB-255CBB981926}|Practice\\Practice.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\interfacepractice\\practice\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65FF74B-4480-4E98-BEFB-255CBB981926}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\InterfacePractice\\Practice\\Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\InterfacePractice\\Practice\\Practice\\Program.cs",
+              "RelativeToolTip": "Practice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T14:32:46.826Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\InterfacePractice\\Practice\\Practice\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Practice\\Services\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\InterfacePractice\\Practice\\Practice\\Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Practice\\Services\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:02:28.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\InterfacePractice\\Practice\\Practice\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Practice\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\InterfacePractice\\Practice\\Practice\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Practice\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAH0AAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:29:15.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\InterfacePractice\\Practice\\Practice\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Practice\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\InterfacePractice\\Practice\\Practice\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Practice\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAxwCoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:06:04.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "96Tjbjl6evFADefReVv/JITI38HQKnuZguQmxFzdMHO0105yxmJay5uASnOMdE+uxny+YqfT7sQpMqin7rp5Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ismay\\OneDrive\\Masaüstü\\InterfacePractice\\Practice\\Practice\\Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ismay\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\ismay\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\ismay\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\ismay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
